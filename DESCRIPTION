@@ -3,11 +3,9 @@ Type: Package
 Version: 0.1.0
 Date: 2018-11-05
 Title: Square Number of X
-Author: Tariq Rizvi [aut, cre]
 Authors@R: person("Tariq", "Rizvi", email = "t.s.rizvi@gmail.com", role = c("aut", "cre"))
 Depends: R (>= 3.1.0)
 Encoding: UTF-8
-Imports: 
 LazyLoad: yes
 Description: 
   Generic function for calculating the square number of x.
