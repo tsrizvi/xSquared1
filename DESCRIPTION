@@ -7,8 +7,7 @@ Authors@R: person("Tariq", "Rizvi", email = "t.s.rizvi@gmail.com", role = c("aut
 Depends: R (>= 3.1.0)
 Encoding: UTF-8
 LazyLoad: yes
-Description: 
-  Generic function for calculating the square number of x.
+Description: Generic function for calculating the square number of x.
 License: MIT + file LICENSE
 Maintainer: Tariq Rizvi <t.s.rizvi@gmail.com>
 RoxygenNote: 6.1.0
