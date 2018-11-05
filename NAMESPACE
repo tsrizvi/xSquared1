@@ -1,0 +1,4 @@
+# last modified 2018-11-05 by T. Rizvi
+
+export(xSquared)
+

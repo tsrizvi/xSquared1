@@ -1,0 +1,13 @@
+Package: xSquared
+Version: 0.0-1
+Date: 2018-11-05
+Title: Square Number of X
+Author: Tariq Rizvi [aut, cre]
+Depends: R (>= 3.2.0)
+Imports: 
+LazyLoad: yes
+Description: 
+  Generic function for calculating the square number of x.
+License: GPL (>= 2)
+Maintainer: Tariq Rizvi <t.s.rizvi@gmail.com>
+
